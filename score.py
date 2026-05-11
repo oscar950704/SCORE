@@ -19,6 +19,10 @@ for s in scores:
     # 2. 在迴圈中累加每一個分數
     total_sum += s
 
+print(count)
+print(max(scores))
+print(min(scores))
+#TEST
 # 3. 計算平均值（總和 / 分數個數）
 # 注意：若輸入為空，需考慮除以零的錯誤處理
 if len(scores) > 0:
