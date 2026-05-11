@@ -16,3 +16,5 @@ for s in scores:
         count += 1
 
 print(count)
+print(max(scores))
+print(min(scores))
