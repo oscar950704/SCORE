@@ -18,3 +18,4 @@ for s in scores:
 print(count)
 print(max(scores))
 print(min(scores))
+#TEST
